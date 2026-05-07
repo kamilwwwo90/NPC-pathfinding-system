@@ -25,9 +25,9 @@ Npc:Start()
 ## Configuration 
 In a configuration table you can modify:
 
---Range = 50, 		     - Detection range in studs
---DespawnRange = 150,	 - Distance from spawn before returning
---AttackRange = 5,	   - Distance to trigger attack state
+- Range = 50, 		     - Detection range in studs
+- DespawnRange = 150,	 - Distance from spawn before returning
+- AttackRange = 5,	   - Distance to trigger attack state
 
 ## States 
 - Idle - stays in place
