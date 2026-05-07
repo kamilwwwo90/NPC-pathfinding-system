@@ -12,6 +12,8 @@ Copy and drop the script into serverscriptservice.
 
 ## Usage
 ```
+local npcsystem = require(script.Parent:WaitForChild("NpcSystem"))
+
 local config = {
 Range = 50, 		
 DespawnRange = 150,	 
